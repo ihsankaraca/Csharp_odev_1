@@ -1,0 +1,14 @@
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.AssemblyInfoInputs.cache
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.AssemblyInfo.cs
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.csproj.CoreCompileInputs.cache
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\bin\Debug\net8.0\ödev_if.exe
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\bin\Debug\net8.0\ödev_if.deps.json
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\bin\Debug\net8.0\ödev_if.runtimeconfig.json
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\bin\Debug\net8.0\ödev_if.dll
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\bin\Debug\net8.0\ödev_if.pdb
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.dll
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\refint\ödev_if.dll
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.pdb
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ödev_if.genruntimeconfig.cache
+C:\Users\karac\OneDrive\Masaüstü\ödev_3\ödev_3\obj\Debug\net8.0\ref\ödev_if.dll
